@@ -11,7 +11,7 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.WP}, (async (message
     
     
    
-  r_text[0] = "https://www.pixelstalk.net/wp-content/uploads/2016/03/Pikachu-wallpaper-HD-dowload.jpg";
+  r_text[0] = "IMG-20211002-WA0000~2.jpg";
     
     
     var i = Math.floor(1*Math.random())
@@ -21,9 +21,9 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.WP}, (async (message
     await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `*My creator is Ameer Suhail*
 *Creator number : wa.me/919946432377?text=Hi%20Ameer%20Suhail.%20*
 *Bot setting video : https://youtu.be/_D4ZYuUSXjs*
-*Githublink (Setup)  :    https://github.com/ameer-kallumthodi/pikachu*
-*Audio commads :   https://github.com/ameer-kallumthodi/pikachu/tree/master/uploads*
-*Sticker commads : https://github.com/ameer-kallumthodi/pikachu/tree/master/uploads*
+*Githublink (Setup)  :    https://github.com/Joel1019/jarvis*
+*Audio commads :   https://github.com/Joel1019/jarvis/tree/master/uploads*
+*Sticker commads : https://github.com/Joel1019/jarvis/tree/master/uploads*
 `}) 
 
 }));
