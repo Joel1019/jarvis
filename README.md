@@ -39,7 +39,7 @@ Project created by <a href="https://github.com/Joel1019">Joel1019</a> to make it
 
 <p align="center">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Joel1019&show_icons=true&theme=dark&locale=en" alt="Joel1019" /></p>
+<p>&nbsp;<img align="center" src="IMG-20211002-WA0000~2.jpg" alt="Joel1019" /></p>
 
 <p><img align="center" src="IMG-20211002-WA0000~2.jpg" alt="Joel1019" /></p>
 </p>
