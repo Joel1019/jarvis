@@ -1,17 +1,17 @@
-<a href="https://bit.ly/3koZRGY"><img src="https://fontmeme.com/permalink/210920/2ae6399b753c4a6e4d92490e52ae17fb.png" alt="google-font" border="0"></a>
+<a href="https://bit.ly/3koZRGY"><img src="IMG-20211002-WA0000~2.jpg" alt="google-font" border="0"></a>
 <div align="center">
         <img src="IMG-20211002-WA0000~2.jpg" alt="GIF" width="250" height="200"/>
 </p>
 
 <div align="center">
 
-## [![jarvis](https://readme-typing-svg.herokuapp.com?font=Road+Rage&color=FFA500&lines=Welcome+to+jarvis+WA+Bot+repo;Created+by+Ameer+Suhail;This+is+the+Best++Bgm+bot;With+more+features)](https://bit.ly/2VM4lxF)
+## [![jarvis](https://readme-typing-svg.herokuapp.com?font=Road+Rage&color=FFA500&lines=Welcome+to+jarvis+WA+Bot+repo;Created+by+Joel+1019;This+is+the+Best++Bgm+bot;With+more+features)](https://bit.ly/2VM4lxF)
 
  </a>
 </p>
 <div align="center">
  <p align="center">
-<a href="#"><img title="AMEER KALLUMTHODI" src="https://img.shields.io/badge/AMEERSUHAIL-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="Joel1019" src="https://img.shields.io/badge/AMEERSUHAIL-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
 <a href="https://github.com/Joel1019"><img title="Author" src="https://img.shields.io/badge/Author-Joel1019/jarvis?color=blue&style=for-the-badge&logo=whatsapp"></a>
@@ -29,7 +29,7 @@ Project created by <a href="https://github.com/Joel1019">Joel1019</a> to make it
 
 <h3 align="center">Contact Me:</h3>
 <p align="center">
-<a href="https://instagram.com/ameer_.su_hail?utm_medium=copy_link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
+<a href="https://instagram.com/rippster_007?utm_medium=copy_link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
 </p>
 <h4 align="center">Support Video For Deploy Bot 👇:</h4>
 <p align="center">
