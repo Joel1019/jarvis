@@ -18,7 +18,7 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.WP}, (async (message
 
     var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `*My creator is Ameer Suhail*
+    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `*My creator is Joel1019*
 *Creator number : wa.me/919946432377?text=Hi%20Ameer%20Suhail.%20*
 *Bot setting video : https://youtu.be/_D4ZYuUSXjs*
 *Githublink (Setup)  :    https://github.com/Joel1019/jarvis*
